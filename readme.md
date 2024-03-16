@@ -22,6 +22,6 @@ In my case  (Minecraft version 1.20) there were two directories missing in the c
 To fix the problem, copy the directories from official samples into the pack and then replace the files inside them with corresponding files from the texture pack.
 
 ### Caveats
-I did not test  that with any directories other than *textures/blocks* since the texture pack i fixed did not affect other textures.
+I did not test  that with any directories other than *textures/blocks* since the texture pack I fixed did not affect other textures.
 
 Remember to remove the texture pack from the minecraft client before installing it again.
