@@ -32,4 +32,4 @@ Also the textures for pathways were not correctly converted so I had to rename t
 ### Caveats
 I did not test  that with any directories other than *textures/blocks* since the texture pack I fixed did not affect other textures.
 
-Remember to remove the texture pack from the minecraft client before installing it again.
+Remember to remove the texture pack from the minecraft client or to change it's version in the manifest before installing it again.
