@@ -24,6 +24,10 @@ To fix the problem, copy the directories and files from official samples into th
 Also the textures for pathways were not correctly converted so I had to rename those:
 - dirt_path_side.png to grass_path_side.png
 - dirt_path_top.png to grass_path_top.png
+- mangrove_log.png to mangrove_log_side.png
+- stripped_mangrove_log.png to stripped_mangrove_log_side.png
+- cherry_log.png to cherry_log_side.png
+- stripped_cherry_log.png to stripped_cherry_log_side.png
 
 ### Caveats
 I did not test  that with any directories other than *textures/blocks* since the texture pack I fixed did not affect other textures.
