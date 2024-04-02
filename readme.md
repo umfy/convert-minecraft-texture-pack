@@ -18,8 +18,12 @@ In my case  (Minecraft version 1.20) there were two directories missing in the c
 
 ![diff](https://github.com/umfy/convert-minecraft-texture-pack/assets/39531680/3d586057-f439-4b55-b5ee-05d45bb54c36)
 
+To fix the problem, copy the directories and files from official samples into the pack and then replace the files inside them with corresponding files from the texture pack.
 
-To fix the problem, copy the directories from official samples into the pack and then replace the files inside them with corresponding files from the texture pack.
+
+Also the textures for pathways were not correctly converted so I had to rename those:
+- dirt_path_side.png to grass_path_side.png
+- dirt_path_top.png to grass_path_top.png
 
 ### Caveats
 I did not test  that with any directories other than *textures/blocks* since the texture pack I fixed did not affect other textures.
