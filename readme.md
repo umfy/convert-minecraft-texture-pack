@@ -28,7 +28,10 @@ Also the textures for pathways were not correctly converted so I had to rename t
 - stripped_mangrove_log.png to stripped_mangrove_log_side.png
 - cherry_log.png to cherry_log_side.png
 - stripped_cherry_log.png to stripped_cherry_log_side.png
+- flowering_azalea_leaves.png to azalea_leaves_flowers.png
+- rooted_dirt.png to dirt_with_roots.png
 
+    
 ### Caveats
 I did not test  that with any directories other than *textures/blocks* since the texture pack I fixed did not affect other textures.
 
